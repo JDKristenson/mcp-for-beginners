@@ -1,3 +1,14 @@
+> **Portfolio context — reference / curriculum.** This repository preserves Microsoft's
+> [MCP for Beginners curriculum](https://github.com/microsoft/mcp-for-beginners), not
+> a claim of original JD authorship or completed coursework. The reviewed baseline
+> is [`6c5151b`](https://github.com/microsoft/mcp-for-beginners/commit/6c5151b36b243c2b1db77174b118ce3bf02b5f5e).
+> See the [local provenance, setup and work ledger](./docs/portfolio/README.md)
+> and [editable curriculum map](./docs/portfolio/curriculum-map.excalidraw)
+> ([preview](./docs/portfolio/curriculum-map.svg)). Setup examples are **NOT RUN**.
+> Root MIT terms coexist with nested Apache-2.0 sample licenses; see the local guide.
+> The curriculum, badges, dates, credits and governance below are inherited upstream
+> material; they do not establish current automation, endorsement or support for this copy.
+
 ![MCP-for-beginners](./images/mcp-beginners.png) 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/mcp-for-beginners.svg)](https://GitHub.com/microsoft/mcp-for-beginners/graphs/contributors)
