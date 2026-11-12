@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 750" role="img" aria-labelledby="title desc">
+<title id="title">MCP curriculum reference map</title>
+<desc id="desc">Inherited curriculum, learning navigation, license credits and local evidence boundaries. Setup not run.</desc>
+<rect width="1040" height="750" fill="#ffffff"/>
+<text id="portfolio-1" x="40" y="28" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="32">
+<tspan x="40" y="60.0">MCP curriculum | reference, not authorship</tspan>
+</text>
+<text id="portfolio-2" x="40" y="78" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="40" y="96.0">Navigation and evidence boundaries — setup commands NOT RUN</tspan>
+</text>
+<rect id="portfolio-3" x="40" y="120" width="460" height="160" fill="#f1f5f9" stroke="#1e293b"/>
+<text id="portfolio-4" x="60" y="138" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="24">
+<tspan x="60" y="162.0">Inherited reference</tspan>
+</text>
+<text id="portfolio-5" x="60" y="182" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="60" y="200.0">Microsoft + community curriculum</tspan>
+<tspan x="60" y="222.5">Baseline: 6c5151b36b24</tspan>
+<tspan x="60" y="245.0">Not original JD curriculum</tspan>
+</text>
+<rect id="portfolio-6" x="540" y="120" width="460" height="160" fill="#f1f5f9" stroke="#1e293b"/>
+<text id="portfolio-7" x="560" y="138" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="24">
+<tspan x="560" y="162.0">Learn concepts</tspan>
+</text>
+<text id="portfolio-8" x="560" y="182" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="560" y="200.0">00 Introduction / 01 Core concepts</tspan>
+<tspan x="560" y="222.5">02 Security / 03 Getting started</tspan>
+<tspan x="560" y="245.0">Read lessons; no completion claim</tspan>
+</text>
+<rect id="portfolio-9" x="40" y="310" width="460" height="160" fill="#f1f5f9" stroke="#1e293b"/>
+<text id="portfolio-10" x="60" y="328" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="24">
+<tspan x="60" y="352.0">Choose one sample</tspan>
+</text>
+<text id="portfolio-11" x="60" y="372" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="60" y="390.0">Python / TypeScript / JavaScript</tspan>
+<tspan x="60" y="412.5">C# + .NET / Java + Spring</tspan>
+<tspan x="60" y="435.0">Separate manifests; setup NOT RUN</tspan>
+</text>
+<rect id="portfolio-12" x="540" y="310" width="460" height="160" fill="#f1f5f9" stroke="#1e293b"/>
+<text id="portfolio-13" x="560" y="328" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="24">
+<tspan x="560" y="352.0">Explore further</tspan>
+</text>
+<text id="portfolio-14" x="560" y="372" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="560" y="390.0">04 Practical / 05 Advanced</tspan>
+<tspan x="560" y="412.5">06 Community / 07 Lessons</tspan>
+<tspan x="560" y="435.0">08 Best practices / 09 Cases / 10 Lab</tspan>
+</text>
+<rect id="portfolio-15" x="40" y="500" width="460" height="160" fill="#f1f5f9" stroke="#1e293b"/>
+<text id="portfolio-16" x="60" y="518" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="24">
+<tspan x="60" y="542.0">Preserve attribution</tspan>
+</text>
+<text id="portfolio-17" x="60" y="562" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="60" y="580.0">Root MIT + nested Apache-2.0</tspan>
+<tspan x="60" y="602.5">Microsoft / community / Shivam Goyal</tspan>
+<tspan x="60" y="625.0">Copilot + Co-op Translator credits</tspan>
+</text>
+<rect id="portfolio-18" x="540" y="500" width="460" height="160" fill="#f1f5f9" stroke="#1e293b"/>
+<text id="portfolio-19" x="560" y="518" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="24">
+<tspan x="560" y="542.0">Local evidence boundary</tspan>
+</text>
+<text id="portfolio-20" x="560" y="562" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="560" y="580.0">Additive docs + original map only</tspan>
+<tspan x="560" y="602.5">Reason AI assistance disclosed</tspan>
+<tspan x="560" y="625.0">Future extensions need PR + checks</tspan>
+</text>
+<text id="portfolio-21" x="40" y="702" fill="#1e293b" font-family="Helvetica, Arial, sans-serif" font-size="18">
+<tspan x="40" y="720.0">Original local map • does not prove learning completion, ownership or working runtime</tspan>
+</text>
+</svg>
